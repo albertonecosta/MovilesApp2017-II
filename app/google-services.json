@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "751577045202",
+    "firebase_url": "https://miercolesapp-f86a4.firebaseio.com",
+    "project_id": "miercolesapp-f86a4",
+    "storage_bucket": "miercolesapp-f86a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751577045202:android:06cd0a2646ad497e",
+        "android_client_info": {
+          "package_name": "com.johnfe.miercolesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751577045202-huagbedkdo5ca2bqfduovm1mk438ejel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.johnfe.miercolesapp",
+            "certificate_hash": "e88337ec47347c1f04a53983b052fa0a11564e94"
+          }
+        },
+        {
+          "client_id": "751577045202-536fa60vrocoispc6cbd5qodar4o3968.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5nnafpHLJ3u68qTkkl3cxoK5cY0EUM_4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751577045202-536fa60vrocoispc6cbd5qodar4o3968.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
